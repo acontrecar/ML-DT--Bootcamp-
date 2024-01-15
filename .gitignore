@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 random_forest_model_1.pkl
 env/
+gs_random_forest_model_1.joblib
+gs_random_forest_model_1.pkl
